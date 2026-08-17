@@ -1,0 +1,8 @@
+# Source PDFs (large; content already extracted into site/assets/)
+*.pdf
+
+# Local tool config
+.claude/
+
+# OS
+.DS_Store
